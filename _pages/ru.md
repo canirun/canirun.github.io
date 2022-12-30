@@ -33,10 +33,10 @@ permalink: /ru/
 
 ## Где можно следить за воздухом:
 
-Твиттер: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
-Телеграмма: [https://t.me/canirun](https://t.me/canirun)
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
+Telegram: [https://t.me/canirun](https://t.me/canirun)
 
 ## Как со мной связаться
 
-телеграмма: <a href="https://t.me/gnupg">@gnupg</a><br>
-электронная почта: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
+Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
+Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>

@@ -32,9 +32,9 @@ permalink: /ge/
 ## სად ვუყუროთ ეთერში:
 
 Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
-ტელეგრამა: [https://t.me/canirun](https://t.me/canirun)
+Telegram: [https://t.me/canirun](https://t.me/canirun)
 
 ## როგორ დამიკავშირდეთ
 
-ტელეგრამა: <a href="https://t.me/gnupg">@gnupg</a><br>
-ელფოსტა: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
+Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
+Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>

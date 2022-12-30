@@ -39,5 +39,5 @@ Telegram: [https://t.me/canirun](https://t.me/canirun)
 
 ## How to contact me
 
-telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
-email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
+Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
+Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
