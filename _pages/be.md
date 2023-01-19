@@ -35,6 +35,10 @@ permalink: /be/
 Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 Telegram: [https://t.me/canirun](https://t.me/canirun)
 
+## Як я магу дапамагчы?
+
+У нас ёсць тэхнічнв тэлеграм-чат <a href="https://t.me/tbilisi_air">@tbilisi_air</a> дзе сабрана інфа аб тым дзе і што можна замовіць каб наладзіць сваю метэа-станцыю, каб павялічыць колькасць датчыкаў па горадзе і каб карціна была больш аб'ектыўнай.
+
 ## Як са мной звязацца
 
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>

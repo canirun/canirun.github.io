@@ -37,6 +37,10 @@ By controlling air pollution, you can perform certain actions. For example, if t
 Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 Telegram: [https://t.me/canirun](https://t.me/canirun)
 
+## How can I help?
+
+We have a technical telegram chat <a href="https://t.me/tbilisi_air">@tbilisi_air</a> where information is collected about where and what you can order in order to build your own weather station in order to increase the number of in the sensors around the city and the picture was more objective.
+
 ## How to contact me
 
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
