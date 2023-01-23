@@ -46,12 +46,8 @@ We have a technical telegram chat <a href="https://t.me/tbilisi_air">@tbilisi_ai
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
 Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
-## Donate
+## Donate money to me for coffee
 
 bitcoin: `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>
-paypal: <form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="32CNVDKMJ9GFG" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BY/i/scr/pixel.gif" width="1" height="1" />
-</form>
+paypal: `mathematics1688@gmail.com`<br>
