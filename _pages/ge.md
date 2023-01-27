@@ -31,8 +31,8 @@ permalink: /ge/
 
 ## სად ვუყუროთ ეთერში:
 
-Telegram: [https://t.me/canirun](https://t.me/canirun)
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
+Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)
 
 ## როგორ დამიკავშირდეთ
 

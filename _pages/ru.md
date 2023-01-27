@@ -33,8 +33,8 @@ permalink: /ru/
 
 ## Где можно следить за воздухом:
 
-Telegram: [https://t.me/canirun](https://t.me/canirun)
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
+Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)
 
 ## Как я могу помочь?
 

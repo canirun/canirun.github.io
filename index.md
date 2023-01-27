@@ -34,8 +34,8 @@ By controlling air pollution, you can perform certain actions. For example, if t
 
 ## Where to watch the air:
 
-Telegram: [https://t.me/canirun](https://t.me/canirun)
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
+Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)
 
 ## How can I help?
 
