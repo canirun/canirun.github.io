@@ -33,8 +33,8 @@ permalink: /ru/
 
 ## Где можно следить за воздухом:
 
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 Telegram: [https://t.me/canirun](https://t.me/canirun)
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 
 ## Как я могу помочь?
 
@@ -45,7 +45,7 @@ Telegram: [https://t.me/canirun](https://t.me/canirun)
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
 Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
-## Скинуть деньги мне на хачапури
+## Поддержать проект
 
 bitcoin: `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>

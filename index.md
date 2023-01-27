@@ -34,8 +34,8 @@ By controlling air pollution, you can perform certain actions. For example, if t
 
 ## Where to watch the air:
 
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 Telegram: [https://t.me/canirun](https://t.me/canirun)
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 
 ## How can I help?
 
@@ -46,7 +46,7 @@ We have a technical telegram chat <a href="https://t.me/tbilisi_air">@tbilisi_ai
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
 Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
-## Buy me a khachapuri 
+## Donate
 
 bitcoin: `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>

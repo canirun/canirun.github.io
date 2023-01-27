@@ -31,15 +31,15 @@ permalink: /ge/
 
 ## სად ვუყუროთ ეთერში:
 
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 Telegram: [https://t.me/canirun](https://t.me/canirun)
+Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)<br>
 
 ## როგორ დამიკავშირდეთ
 
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
 Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
-## ფული ჩემთვის ხაჭაპურისთვის
+## ფული ჩემთვის ხაჭაპურისთვის :)
 
 bitcoin: `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>
