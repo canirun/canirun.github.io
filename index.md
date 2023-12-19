@@ -32,6 +32,8 @@ That is, if the air was clean in the morning (for example, 13), and by the eveni
 
 By controlling air pollution, you can perform certain actions. For example, if the air is very dirty, you need to go out less and close all the windows of the house without opening them unnecessarily. If the air is clean, you can go for a walk or run.
 
+## Where you can monitor the air
+
 ### Tbilisi (Georgia)
 [https://t.me/canirun](https://t.me/canirun) (telegram)<br>
 
