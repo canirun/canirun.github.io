@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tbilisi, can i run?
+title: Can i run?
 permalink: /
 ---
 
