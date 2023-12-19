@@ -31,12 +31,10 @@ permalink: /ru/
 
 ## Где можно следить за воздухом:
 
-### Грузия
-#### Тбилиси
+### Тбилиси (Грузия
 Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
 
-### Армения
-#### Ереван
+### Ереван (Армения)
 Telegram: [https://t.me/armaqi](https://t.me/armaqi)
 
 ## Как я могу помочь?
