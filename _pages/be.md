@@ -28,10 +28,11 @@ permalink: /be/
 
 Кантралюючы забруджанасць паветра можна здзяйсняць тыя ці іншыя дзеянні. Напрыклад, калі паветра вельмі бруднае - трэба паменш выходзіць на вуліцу і зачыніць усе вокны дома, не адчыняючы іх без патрэбы. Калі паветра чыстае - можна схадзіць прагуляцца, ці пабегаць.
 
-## Дзе можна сачыць за паветрам:
+### Тбілісі (Грузія)
+[https://t.me/canirun](https://t.me/canirun) (telegram)<br>
 
-Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)
+### Ерэван (Арменія)
+[https://t.me/armaqi](https://t.me/armaqi) (telegram)
 
 ## Як я магу дапамагчы?
 

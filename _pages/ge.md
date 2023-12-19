@@ -29,8 +29,11 @@ permalink: /ge/
 
 ## სად ვუყუროთ ეთერში:
 
-Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
-Twitter: [https://twitter.com/tbilisi_canirun](https://twitter.com/tbilisi_canirun)
+### თბილისი (საქართველო)
+[https://t.me/canirun](https://t.me/canirun) (telegram)<br>
+
+### ერევან (სომხეთი)
+[https://t.me/armaqi](https://t.me/armaqi) (telegram)
 
 ## როგორ დამიკავშირდეთ
 
