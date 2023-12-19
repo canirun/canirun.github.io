@@ -31,7 +31,7 @@ permalink: /ru/
 
 ## Где можно следить за воздухом:
 
-### Тбилиси (Грузия
+### Тбилиси (Грузия)
 Telegram: [https://t.me/canirun](https://t.me/canirun)<br>
 
 ### Ереван (Армения)
