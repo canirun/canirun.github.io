@@ -38,7 +38,7 @@ By controlling air pollution, you can perform certain actions. For example, if t
 [https://t.me/canirun](https://t.me/canirun) (telegram)<br>
 
 ### Yerevan (Armenia)
-[https://t.me/armaqi](https://t.me/armaqi) (telegram)
+[https://t.me/airinyerevan](https://t.me/airinyerevan) (telegram)
 
 ## How can I help?
 

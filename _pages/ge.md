@@ -33,7 +33,7 @@ permalink: /ge/
 [https://t.me/canirun](https://t.me/canirun) (telegram)<br>
 
 ### ერევან (სომხეთი)
-[https://t.me/armaqi](https://t.me/armaqi) (telegram)
+[https://t.me/airinyerevan](https://t.me/airinyerevan) (telegram)
 
 ## როგორ დამიკავშირდეთ
 
