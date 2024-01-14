@@ -47,6 +47,6 @@ Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
 ## Падтрымаць праект
 
-bitcoin: `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`<br>
+bitcoin: `13ba7BxuaG7bGurNxatKAemqRURYKaP5M6`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>
 paypal: `mathematics1688@gmail.com`<br>
