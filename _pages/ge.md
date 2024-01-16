@@ -44,5 +44,5 @@ Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
 
 bitcoin: `13ba7BxuaG7bGurNxatKAemqRURYKaP5M6`<br>
 IBAN: `GE47TB7765045068100010` (Aliaksei Sakalou, swift: TBCBGE22, Georgia)<br>
-<img src="images/qrdonate.png" /><br>
+<img src="/images/qrdonate.png" /><br>
 [https://www.donationalerts.com/r/belarusuli](https://www.donationalerts.com/r/belarusuli)
