@@ -44,7 +44,7 @@ permalink: /ru/
 ## Как со мной связаться
 
 Telegram: <a href="https://t.me/gnupg">@gnupg</a><br>
-Email: <a href="mailto:nullbsd@gmail.com">nullbsd@gmail.com</a>
+Email: <a href="mailto:false-preppy-rice@duck.com">false-preppy-rice@duck.com</a>
 
 ## Поддержать проект
 
